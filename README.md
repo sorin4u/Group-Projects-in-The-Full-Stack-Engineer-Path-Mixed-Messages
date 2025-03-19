@@ -8,7 +8,7 @@ You will build a message generator program. Every time a user runs a program, th
 - When someone clicks on the "Generate Horoscope" button, they will receive a random horoscope message for Aries for one of the next three days.
 
 ### Tech Stack
-
+*   Html & Css
 *   JavaScript
 *   Git and GitHub
 *   Visual Studio Code
